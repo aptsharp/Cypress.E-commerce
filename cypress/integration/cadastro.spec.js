@@ -1,6 +1,6 @@
-<reference types="cypress"/>
+//<reference types="cypress"/>
 // referencia do cypress para ativar as referencias do comando.
 
 it('Meu teste', () =>{
-    console.log('Ola mundo');
+    console.log('*** Teste ****');
 })
